@@ -23,7 +23,25 @@ console.log (hr);
 		am_pm.innerHTML = "PM";
 	}
  
-	if (hr == 13) {
+	if (hr == 1) {
+		hours.innerHTML = "01";
+	} else if (hr == 2) {
+		hours.innerHTML = "02";
+	} else if (hr == 3) {
+		hours.innerHTML = "03";
+	} else if (hr == 4) {
+		hours.innerHTML = "04";
+	} else if (hr == 5) {
+		hours.innerHTML = "05";
+	} else if (hr == 6) {
+		hours.innerHTML = "06";
+	} else if (hr == 7) {
+		hours.innerHTML = "07";
+	} else if (hr == 8) {
+		hours.innerHTML = "08";
+	} else if (hr == 9) {
+		hours.innerHTML = "09";
+	} else if (hr == 13) {
 		hours.innerHTML = "01";
 	} else if (hr == 14) {
 		hours.innerHTML = "02";
