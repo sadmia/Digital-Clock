@@ -1,2 +1,1 @@
-# Digital-Clock
-Digital Clock Design HTML, CSS &amp; JavaScript
+Digital Clock Live View Link : https://sadmia.github.io/Digital-Clock/
